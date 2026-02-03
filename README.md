@@ -42,10 +42,9 @@ Yes, elements that overflow past the original length are discarded
 No, must be done in place
 3. Can the array contain negative numbers?
 Doesn't matter; only 0 has special meaning
+5. Do we need to return anything?
+No, modify the array directly 
 
 ---
 
 ## Youtube
-
-5. Do we need to return anything?
-No, modify the array directly 
